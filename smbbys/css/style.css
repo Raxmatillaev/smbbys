@@ -1,0 +1,18 @@
+.menu{
+    text-align: center;
+    
+}
+body{
+    background: url(../img/bg.png);
+}
+.fa{
+    font-size: 150px;
+    color: black;
+}
+.menu h1{
+    margin-bottom: 50px;
+}
+.menu img{
+    height: 180px;
+    width: 200px;
+}
